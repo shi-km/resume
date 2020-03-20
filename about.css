@@ -1,0 +1,49 @@
+body{
+  background-image: url('bb.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+header{
+    background-color:antiquewhite;
+}
+nav{
+    text-align: right;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+} 
+nav li a:hover{
+    background: blanchedalmond;
+}
+
+nav li{
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
+.contacts{
+    text-align: center;
+
+}
+.contacts ul{
+    list-style: none;
+}
+.contacts ol{
+    list-style: none;
+}
+#about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+  
+/* #column{
+    width: 200px;
+    float: left;
+} */

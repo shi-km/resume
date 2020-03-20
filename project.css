@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://bit.ly/375P0rk');
+  background-repeat: no-repeat;
+  background-size:cover;
+  
+}
+header{
+    background-color:antiquewhite;
+}
+nav{
+    text-align: right;
+}
+nav ul{
+    list-style: none;
+} 
+nav li{
+    list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+
+nav li a:hover{
+    background: blanchedalmond;
+}
+
+nav li{
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
+#project{
+    text-align: center;
+    font-size: x-large;
+}
+p{
+    font-size: x-large;
+    color:black;
+}

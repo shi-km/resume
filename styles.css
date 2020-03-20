@@ -1,0 +1,39 @@
+body{
+ background-image: url('https://bit.ly/2Ot9iEC'); 
+ background-repeat: no-repeat;
+ background-size: cover;  
+}
+header{
+    background-color:antiquewhite;
+   
+}
+nav{
+    text-align: right;
+   
+}
+x
+nav ul{
+    list-style: none;
+} 
+  a:hover{
+    background:burlywood;
+}
+
+nav li{
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+ 
+}
+nav a{
+    text-decoration: none;
+}
+
+#top{
+    text-align: center;
+    font-size: xx-large;
+    color:green;
+    padding-top: 100px;
+    text-shadow: black;
+}
